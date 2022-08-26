@@ -11,6 +11,8 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
+Blockchain/
+Blockchain/lib
 build/
 develop-eggs/
 dist/
@@ -92,3 +94,4 @@ ENV/
 
 # pycharm
 .idea/
+node_modules
